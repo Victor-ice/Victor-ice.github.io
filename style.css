@@ -1,0 +1,10 @@
+/* Additional styles for image sections */
+section#space-image-1, section#space-image-2 {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;  /* Adjust as needed */
+  display: block;
+  margin: 0 auto;
+}
