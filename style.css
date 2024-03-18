@@ -71,3 +71,8 @@ a:hover {
   height: auto;
 }
 
+.centered-section {
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;  /* Adjust padding as needed */
+}
